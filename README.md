@@ -47,4 +47,4 @@
 
 ## 支持作者
 
-![Donation](donation.jpg)
+![Donation](./donation.jpg)
