@@ -48,3 +48,4 @@
 ## 支持作者
 
 ![Donation](./donation.jpg)
+<img src="./donation.jpg" width=600px />
